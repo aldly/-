@@ -1,0 +1,1 @@
+pyinstaller -w -i /Users/aldly/Documents/Python/乖宝工具箱/icons/Aldly.png --add-data "/Users/aldly/Documents/Python/乖宝工具箱/salary_info.xlsx:." --add-data "/Users/aldly/Documents/Python/乖宝工具箱/icons:icons" --contents-directory . main.py
